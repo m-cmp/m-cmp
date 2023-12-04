@@ -1,0 +1,24 @@
+[submodule "mc-infra-connector"]
+	path = mc-infra-connector
+	url = https://github.com/m-cmp/mc-infra-connector.git
+[submodule "mc-infra-manager"]
+	path = mc-infra-manager
+	url = https://github.com/m-cmp/mc-infra-manager.git
+[submodule "mc-application-manager"]
+	path = mc-application-manager
+	url = https://github.com/m-cmp/mc-application-manager.git
+[submodule "mc-across-service-manager"]
+	path = mc-across-service-manager
+	url = https://github.com/m-cmp/mc-across-service-manager.git
+[submodule "mc-workflow-manager"]
+	path = mc-workflow-manager
+	url = https://github.com/m-cmp/mc-workflow-manager.git
+[submodule "mc-cost-optimizer"]
+	path = mc-cost-optimizer
+	url = https://github.com/m-cmp/mc-cost-optimizer.git
+[submodule "mc-iam-manager"]
+	path = mc-iam-manager
+	url = https://github.com/m-cmp/mc-iam-manager.git
+[submodule "mc-web-console"]
+	path = mc-web-console
+	url = https://github.com/m-cmp/mc-web-console.git
