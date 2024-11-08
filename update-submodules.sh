@@ -56,7 +56,7 @@ update_submodule() {
     cd "$submodule_path" || { echo "Error: Failed to enter $submodule_path directory."; exit 1; }
 
     # Fetch all tags from the remote repository
-    git fetch --tags
+    git fetch --all --tags
 
     # Determine the latest tag
     latest_tag=$(git describe --tags `git rev-list --tags --max-count=1`)
