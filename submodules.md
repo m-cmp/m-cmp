@@ -8,6 +8,5 @@ https://github.com/m-cmp/mc-web-console
 https://github.com/m-cmp/mc-workflow-manager
 https://github.com/m-cmp/mc-admin-cli
 https://github.com/m-cmp/mc-observability
-https://github.com/m-cmp/mc-across-service-manager
 https://github.com/m-cmp/mc-infra-connector
-https://github.com/m-cmp/mc-infra-manager 
+https://github.com/m-cmp/mc-infra-manager
