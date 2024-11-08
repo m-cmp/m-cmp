@@ -13,34 +13,47 @@ The included repositories are listed in the root directory.
 
 The main subsystems and tools included are as follows:
 
-- **MC Infra Connector**: Connects all clouds in a single interface, facilitating dynamic multi-cloud integration. It offers unified APIs for the dynamic connection and control of multi-cloud resources and services.
-  - [Upstream repository](https://github.com/m-cmp/mc-infra-connector)
+- **M-CMP Admin CLI**: Offers a CLI for running the Multi-Cloud Platform.
+  - [Upstream repository](https://github.com/m-cmp/mc-admin-cli)
 
-- **MC Infra Manager**: Manages multi-cloud infrastructures, integrating various heterogeneous cloud infrastructure resources in the form of a single private cloud.
-  - [Upstream repository](https://github.com/m-cmp/mc-infra-manager)
-
-- **MC Application Manager**: Manages multi-cloud applications, focusing on deploying applications across multi-cloud infrastructures.
-  - [Upstream repository](https://github.com/m-cmp/mc-application-manager)
-
-- **MC Across Service Manager**: Manages multi-cloud services, providing functionalities like cloud-to-cloud migration and dynamic performance management.
-  - [Upstream repository](https://github.com/m-cmp/mc-across-service-manager)
-
-- **MC Workflow Manager**: Manages multi-cloud workflows and automation, enabling the creation of workflows for deploying infrastructures and applications across clouds.
-  - [Upstream repository](https://github.com/m-cmp/mc-workflow-manager)
-
-- **MC Cost Optimizer**: Focuses on cloud cost optimization across various clouds.
-  - [Upstream repository](https://github.com/m-cmp/mc-cost-optimizer)
+- **MC Web Console**: Offers a web-based GUI for managing various clouds, as part of the Multi-Cloud Project.
+  - [Upstream repository](https://github.com/m-cmp/mc-web-console)
 
 - **MC IAM Manager**: Manages Identity and Access Management across multi-cloud platforms, providing account/role management and access control.
   - [Upstream repository](https://github.com/m-cmp/mc-iam-manager)
 
-- **MC Web Console**: Offers a web-based GUI for managing various clouds, as part of the Multi-Cloud Project.
-  - [Upstream repository](https://github.com/m-cmp/mc-web-console)
+- **MC Cost Optimizer**: Focuses on cloud cost optimization across various clouds.
+  - [Upstream repository](https://github.com/m-cmp/mc-cost-optimizer)
+
+- **MC Observability**: Manages observability of multi-cloud services.
+  - [Upstream repository](https://github.com/cloud-barista/mc-data-manager)
+
+- **MC Application Manager**: Manages multi-cloud applications, focusing on deploying applications across multi-cloud infrastructures.
+  - [Upstream repository](https://github.com/m-cmp/mc-application-manager)
+
+- **MC Workflow Manager**: Manages multi-cloud workflows and automation, enabling the creation of workflows for deploying infrastructures and applications across clouds.
+  - [Upstream repository](https://github.com/m-cmp/mc-workflow-manager)
+
+- **MC Across Service Manager**: Manages multi-cloud services, providing functionalities like cloud-to-cloud migration and dynamic performance management.
+  - [Upstream repository](https://github.com/cloud-barista/mc-data-manager)
+
+- **MC Infra Manager**: Manages multi-cloud infrastructures, integrating various heterogeneous cloud infrastructure resources in the form of a single private cloud.
+  - [Upstream repository](https://github.com/m-cmp/mc-infra-manager)
+
+- **MC Infra Connector**: Connects all clouds in a single interface, facilitating dynamic multi-cloud integration. It offers unified APIs for the dynamic connection and control of multi-cloud resources and services.
+  - [Upstream repository](https://github.com/m-cmp/mc-infra-connector)
 
 
 ## Getting Started
 
 To start with the M-CMP, follow these detailed steps:
+
+**A simple way**: use https://github.com/m-cmp/mc-admin-cli to run all subsystems.
+
+![image](https://github.com/user-attachments/assets/5ca59d00-a2a2-4cf7-9692-c8e96cf2967c)
+
+![image](https://github.com/user-attachments/assets/9bf255c8-296a-4047-b755-92ade3924096)
+
 
 1. **Access Repositories**: Navigate to the README.md file of each tool repository by clicking on the provided upstream repository links.
 2. **Installation Instructions**: Follow the detailed installation instructions provided in each repository. These instructions cover the prerequisites, dependencies, and step-by-step installation process.
