@@ -25,3 +25,6 @@
 [submodule "mc-admin-cli"]
 	path = mc-admin-cli
 	url = https://github.com/m-cmp/mc-admin-cli
+[submodule "mc-observability"]
+	path = mc-observability
+	url = https://github.com/m-cmp/mc-observability
