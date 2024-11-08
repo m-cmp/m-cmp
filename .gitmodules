@@ -4,3 +4,6 @@
 [submodule "mc-application-manager"]
 	path = mc-application-manager
 	url = https://github.com/m-cmp/mc-application-manager
+[submodule "mc-cost-optimizer"]
+	path = mc-cost-optimizer
+	url = https://github.com/m-cmp/mc-cost-optimizer
