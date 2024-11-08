@@ -19,3 +19,6 @@
 [submodule "mc-web-console"]
 	path = mc-web-console
 	url = https://github.com/m-cmp/mc-web-console
+[submodule "mc-workflow-manager"]
+	path = mc-workflow-manager
+	url = https://github.com/m-cmp/mc-workflow-manager
