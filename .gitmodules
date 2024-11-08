@@ -22,3 +22,6 @@
 [submodule "mc-web-console"]
 	path = mc-web-console
 	url = https://github.com/m-cmp/mc-web-console.git
+[submodule "mc-data-manager"]
+	path = mc-data-manager
+	url = https://github.com/cloud-barista/mc-data-manager
