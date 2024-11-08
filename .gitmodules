@@ -1,0 +1,3 @@
+[submodule "mc-data-manager"]
+	path = mc-data-manager
+	url = https://github.com/cloud-barista/mc-data-manager
