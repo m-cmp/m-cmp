@@ -22,3 +22,6 @@
 [submodule "mc-workflow-manager"]
 	path = mc-workflow-manager
 	url = https://github.com/m-cmp/mc-workflow-manager
+[submodule "mc-admin-cli"]
+	path = mc-admin-cli
+	url = https://github.com/m-cmp/mc-admin-cli
