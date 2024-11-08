@@ -7,3 +7,6 @@
 [submodule "mc-cost-optimizer"]
 	path = mc-cost-optimizer
 	url = https://github.com/m-cmp/mc-cost-optimizer
+[submodule "mc-iam-manager"]
+	path = mc-iam-manager
+	url = https://github.com/m-cmp/mc-iam-manager
