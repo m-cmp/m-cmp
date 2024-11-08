@@ -31,3 +31,6 @@
 [submodule "mc-infra-connector"]
 	path = mc-infra-connector
 	url = https://github.com/m-cmp/mc-infra-connector
+[submodule "mc-infra-manager"]
+	path = mc-infra-manager
+	url = https://github.com/m-cmp/mc-infra-manager
