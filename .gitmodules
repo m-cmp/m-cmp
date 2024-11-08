@@ -28,3 +28,6 @@
 [submodule "mc-observability"]
 	path = mc-observability
 	url = https://github.com/m-cmp/mc-observability
+[submodule "mc-infra-connector"]
+	path = mc-infra-connector
+	url = https://github.com/m-cmp/mc-infra-connector
